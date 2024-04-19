@@ -1,0 +1,670 @@
+@font-face{
+    font-family: 'Minecraft';
+    src: url(fonts/regular.otf);
+}
+
+
+
+
+body{
+    background-image: url(ghj.png) ;
+    background-size: 500px;
+    background-repeat:repeat;
+    
+    
+}
+.trans{
+    background-color: rgba(69, 67, 67);
+    height: 49px;
+    margin-top: -2.3%;
+    margin-left: -0.9%;
+    margin-right: -0.9%;
+    border-radius: 1px;
+    border-color: black;
+}
+.back{
+    margin-top: 2.3%; 
+    margin-left: 1%;
+    padding-left: 19px;
+    padding-right: 19px;
+    font-family: monospace;
+    background-color: rgb(20, 149, 28);
+    color: rgb(221, 208, 208);
+    border-color: black ;
+    font-family: Minecraft;
+    font-weight: lighter;
+    border-style:groove;
+    border-color: rgb(78, 255, 69);
+    cursor: pointer;
+    
+}
+.cracked{
+    color: rgb(223, 222, 225);
+    margin-inline-start: 39%;
+    margin-top: -2.8%;
+    background-color: rgb(111, 105, 105);
+    margin-right: 40%;
+    padding-left: 25px;
+    border-color: rgb(0, 0, 0);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    box-shadow: inset;
+    font-family: Minecraft;
+    font-weight: lighter;
+       
+}
+.next{
+    margin-top: 0%;
+    padding-left: 13px;
+    padding-right: 11px;
+    font-family: monospace;
+    background-color:  rgb(20, 149, 28);
+    color: rgb(221, 208, 208);
+    margin-inline-start: 91.1%;
+    border-style: groove;
+    border-color: rgb(78, 255, 69);
+    cursor: pointer;
+
+}
+
+.block{
+    color:rgb(47, 45, 45) ;
+    background-color: rgb(47, 45, 45);
+    width: 70%;
+    margin-inline-start: 15%;
+    height: 8000px;
+    scrollbar-width: 20px;
+    margin-top: 3%;
+    
+}
+.hm{
+    color: aliceblue;
+    margin-inline-start:44.3%;
+    margin-top: -903%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    font-family: Minecraft;
+    font-weight: lighter;
+
+}
+.yes{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.mini{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.ok{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.bl{
+    background-image: url(Untitled_design-removebg-preview.png);
+    height:300px;
+    width: 700px;
+    margin-inline-start: 15.74%;
+    margin-top: -20%;
+   
+}
+.jar{
+    color: aliceblue;
+    margin-inline-start:45%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.yea{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no2{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.ohyes{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.im{
+    background-image: url(fg.png);
+    height:296px;
+    width: 700px;
+    margin-inline-start: 15.5%;
+    margin-top: -24%;
+}
+.pika{
+    color: aliceblue;
+    margin-inline-start:46.5%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -10.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.ohh{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no3{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.ohok{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.o{
+    background-image: url(pika-removebg-preview.png);
+    height:296px;
+    width: 700px;
+    margin-inline-start: 11.15%;
+    margin-top: -25%;
+}
+.Minemalia{
+    color: aliceblue;
+    margin-inline-start:43.6%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -10.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.yu{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no4{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(67, 234, 48);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.ol{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}.p{
+    background-image: url(Untitled_design__1_-removebg-preview.png);
+    height:296px;
+    width: 700px;
+    margin-inline-start: 12.3%;
+    margin-top: -28%;
+}
+.berry{
+    color: aliceblue;
+    margin-inline-start:43.6%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -7.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.yi{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}.no5{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(67, 234, 48);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.op{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.l{
+    background-image: url(beryyy.png);
+    height:296px;
+    width: 709px;
+    margin-inline-start: 12.3%;
+    margin-top: -28%;
+}
+.twer{
+    color: aliceblue;
+    margin-inline-start:43.6%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -7.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.yp{
+    color:  rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no6{
+    color: rgb(67, 234, 48);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48) ;
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.pp{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.k{
+    background-image: url(twerion.png);
+    height:296px;
+    width: 709px;
+    margin-inline-start: 12.3%;
+    margin-top: -28%;
+}
+.ulti{
+    color: aliceblue;
+    margin-inline-start:44.9%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -7.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.yl{
+    color:  rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no7{
+    color: rgb(67, 234, 48);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48) ;
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.pl{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.s{
+    background-image: url(ultimis.png);
+    height:296px;
+    width: 709px;
+    margin-inline-start: 12.3%;
+    margin-top: -28%;
+}
+.hylex{
+    color: aliceblue;
+    margin-inline-start:44.9%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -7.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.ye{
+    color:  rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no8{
+    color: rgb(67, 234, 48);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48) ;
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.pj{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.a{
+    background-image: url(hylex.png);
+    height:296px;
+    width: 709px;
+    margin-inline-start: 12.5%;
+    margin-top: -27.5%;
+}
+.apple{
+    color: aliceblue;
+    margin-inline-start:44.9%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -7.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.yw{
+    color:  rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no9{
+    color: rgb(67, 234, 48);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48) ;
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.pk{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.f{
+    background-image: url(apple.png);
+    height:296px;
+    width: 709px;
+    margin-inline-start: 12.2%;
+    margin-top: -27%;
+}
+.help{
+    color:  rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(220, 216, 19);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.gamee{
+    color: aliceblue;
+    margin-inline-start:44.9%;
+    margin-top: -15%;
+    background-color:rgb(20, 149, 28) ;
+    width: min-content;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: large;
+    margin-top: -7.5%;
+    font-family: Minecraft;
+    font-weight: lighter;
+}
+.yy{
+    color:  rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(183, 183, 146);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.no10{
+    color: rgb(67, 234, 48);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(67, 234, 48) ;
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+.ppp{
+    color: rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color: rgb(183, 183, 146);
+    font-size: larger;
+    font-weight:lighter;
+    background-color: black;
+    border-radius: 6px;
+    text-align: center;
+    height: 104px;
+}
+.q{
+    background-image: url(rt.png);
+    height:296px;
+    width: 709px;
+    margin-inline-start: 12.2%;
+    margin-top: -27%;
+}
+.helpp{
+    color:  rgb(202, 214, 147);
+    text-align: justify;
+    width: 63%;
+    margin-inline-start: 18.5%;
+    color:  rgb(220, 216, 19);
+    font-family:Minecraft,serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+
+
+
